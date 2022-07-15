@@ -1,3 +1,19 @@
+# DatoCMS SiteSearch instructions
+
+For general documentation refer to [this page](https://www.datocms.com/docs/site-search)
+
+Trigger configuration:
+
+![Screenshot of the build trigger](/docs/build-trigger.png)
+
+Uppon triggering a new build with this build tirgger, the spidering will start. All of the pages inside the sitemap.xml directly on the root of the website (specifically the frontend URL specified in the build trigger with "Site Search" on) will be indexed. 
+
+I staticly generated the sitemap.xml file in the root of the project with the help of [this service](https://www.xml-sitemaps.com/), using NextJS some dynamic sitemap generation procedures are definitly possible and recomended if you have a constantly updating large application, but this wasn't necessary for this example.
+
+Then, we can see all of the pages of the blog have been successfully indexed:
+
+
+
 # A Blog example using Next.js and DatoCMS
 
 This example showcases a Next.js Blog using [DatoCMS](https://www.datocms.com/) as the data source. It fully supports [Preview Mode](https://www.datocms.com/docs/next-js/setting-up-next-js-preview-mode) with [DatoCMS real-time updates](https://www.datocms.com/docs/next-js/real-time-updates).

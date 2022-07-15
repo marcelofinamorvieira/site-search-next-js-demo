@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nextjs-demo-bay.vercel.app/</loc>
+  <lastmod>2022-07-15T11:51:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nextjs-demo-bay.vercel.app/posts/mistakes-tourists-make-on-their-first-trip-abroad</loc>
+  <lastmod>2022-07-15T11:51:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nextjs-demo-bay.vercel.app/posts/spicy-jalapeno-bacon</loc>
+  <lastmod>2022-07-15T11:51:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nextjs-demo-bay.vercel.app/posts/unforgettable-trip-to-the-great-wall-in-china</loc>
+  <lastmod>2022-07-15T11:51:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nextjs-demo-bay.vercel.app/posts/tips-on-how-to-see-more-and-stay-safe-in-asia</loc>
+  <lastmod>2022-07-15T11:51:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
